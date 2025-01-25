@@ -1,0 +1,210 @@
+HelpingAI License
+Version 3.0
+
+Copyright (c) 2024 HelpingAI
+
+All Rights Reserved.
+
+PREAMBLE
+The HelpingAI License (the "License") is designed to govern the use, modification, and distribution of HelpingAI's proprietary assets, including but not limited to artificial intelligence models, software, algorithms, weights, documentation, datasets, and associated materials (collectively, the "Content"). This License aims to balance open innovation with the protection of HelpingAI's intellectual property rights while ensuring responsible and ethical use of AI technology.
+
+1. DEFINITIONS
+1.1. "Model" means any machine learning model, artificial intelligence system, neural network architecture, or AI-powered solution developed by HelpingAI.
+
+1.2. "Weights" refers to the trained parameters, embeddings, model checkpoints, and other numerical values that define the behavior and capabilities of the Model.
+
+1.3. "Source Code" means the human-readable form of software, documentation, configuration files, and associated resources.
+
+1.4. "Derivative Work" means any work that is based upon or derived from the Content, including but not limited to:
+
+Fine-tuned or adapted versions of the Model
+Modified or enhanced versions of the Source Code
+Products, services, or applications that incorporate the Content
+Adaptations, transformations, or improvements of the Content
+Any output generated using the Model or Content
+1.5. "Commercial Use" means any use of the Content intended for or directed toward:
+
+Commercial advantage or monetary compensation
+Revenue generation, either directly or indirectly
+Business operations or commercial services
+Integration into commercial products or offerings
+1.6. "End User" means any individual or entity that uses the Content or Derivative Works.
+
+2. GRANT OF RIGHTS
+Subject to the terms and conditions of this License, HelpingAI hereby grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+2.1. Access and use the Content for:
+
+Research and evaluation purposes
+Educational and academic use
+Personal, non-commercial projects
+Open-source contributions (subject to Section 3)
+2.2. Create and use Derivative Works for non-commercial purposes, provided that:
+
+You comply with all restrictions in Section 3
+You maintain appropriate attribution
+You ensure responsible and ethical use
+2.3. Distribute the Content or Derivative Works to third parties, provided that:
+
+You maintain all copyright notices and attributions
+You include a complete, unmodified copy of this License
+You clearly document any modifications made
+You comply with all restrictions in Section 3
+You ensure recipients agree to this License
+3. RESTRICTIONS AND LIMITATIONS
+3.1. Commercial Use Restrictions
+
+You may not use the Content or any Derivative Works for Commercial Use without:
+
+Obtaining a separate commercial license from HelpingAI
+Paying applicable fees and royalties
+Receiving written authorization
+3.2. Model Usage Restrictions
+
+You may not:
+
+Use the Model to train or develop competing AI models or services
+Extract, reverse engineer, or decompile the Model's architecture or weights
+Remove, disable, or circumvent any access controls or security measures
+Use the Model for military purposes, weapons development, or harmful applications
+Use the Model to generate harmful, discriminatory, or illegal content
+Use the Model in safety-critical applications without explicit written permission
+Use the Model in ways that violate privacy or data protection laws
+Create autonomous systems that could cause harm to individuals or society
+3.3. Distribution Restrictions
+
+You may not:
+
+Redistribute the Model's weights or checkpoints without explicit permission
+Create hosted APIs or services that provide direct access to the Model
+Bundle or integrate the Content with commercial products or services
+Sublicense or transfer rights to the Content to third parties
+Distribute the Content in ways that could harm HelpingAI's interests
+3.4. Branding and Attribution
+
+You must:
+
+Maintain all HelpingAI branding, logos, notices, and watermarks
+Include the following attribution in all Derivative Works: "Powered by HelpingAI technology, licensed under the HelpingAI License v3.0"
+Not use HelpingAI's name, logos, or trademarks to endorse or promote products
+Not suggest any official association with HelpingAI without permission
+4. INTELLECTUAL PROPERTY
+4.1. HelpingAI retains all rights, title, and interest in and to the Content, including:
+
+All intellectual property rights
+Patents, trademarks, and trade secrets
+Proprietary methods and algorithms
+Future improvements and modifications
+4.2. This License does not grant you any rights to HelpingAI's:
+
+Patents or patent applications
+Trademarks or service marks
+Trade secrets or proprietary information
+Other intellectual property except as expressly stated
+4.3. Derivative Works:
+
+You retain ownership of original portions of Derivative Works you create
+HelpingAI retains all rights to the underlying Content
+You grant HelpingAI a perpetual license to any improvements or feedback
+5. DATA COLLECTION AND PRIVACY
+5.1. Data Collection:
+
+HelpingAI may collect usage data and performance metrics
+Analytics may be used to improve the Content
+Collection will comply with applicable privacy laws
+5.2. Privacy Requirements:
+
+You must comply with all applicable privacy laws and regulations
+You must provide appropriate privacy notices to End Users
+You must obtain necessary consents for data collection
+You must implement appropriate data security measures
+6. WARRANTY DISCLAIMER
+THE CONTENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+WARRANTIES OF MERCHANTABILITY
+FITNESS FOR A PARTICULAR PURPOSE
+NON-INFRINGEMENT
+ACCURACY OR COMPLETENESS
+ABSENCE OF ERRORS OR DEFECTS
+COMPATIBILITY WITH OTHER SOFTWARE
+SECURITY OR PERFORMANCE
+
+7. LIMITATION OF LIABILITY
+7.1. IN NO EVENT SHALL HELPINGAI BE LIABLE FOR ANY:
+
+DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES
+LOSS OF PROFITS OR BUSINESS OPPORTUNITIES
+BUSINESS INTERRUPTION OR LOST DATA
+PERSONAL INJURY OR PROPERTY DAMAGE
+ANY OTHER DAMAGES OR LOSSES
+7.2. THIS LIMITATION APPLIES TO:
+
+CONTRACT OR TORT CLAIMS
+BREACH OF WARRANTY
+ANY OTHER LEGAL THEORY
+ALL USES OF THE CONTENT
+8. TERMINATION
+8.1. Automatic Termination:
+
+This License terminates automatically upon any breach
+No notice is required for termination
+All rights granted immediately cease
+8.2. Upon Termination:
+
+Cease all use of the Content
+Destroy all copies and installations
+Stop distribution of Derivative Works
+Certify compliance with termination terms
+8.3. Survival:
+
+Sections 4, 6, 7, 9, and 10 survive termination
+Obligations to protect intellectual property continue
+Liability limitations remain in effect
+9. GOVERNING LAW AND JURISDICTION
+9.1. This License shall be governed by and construed in accordance with:
+
+The laws of the United States of America
+The State of California
+Without regard to conflicts of law principles
+9.2. Dispute Resolution:
+
+Exclusive jurisdiction in Santa Clara County, California
+Agreement to personal jurisdiction
+Waiver of jury trial
+Prevailing party entitled to attorney fees
+10. EXPORT COMPLIANCE
+10.1. You must comply with all applicable:
+
+Export control laws and regulations
+Trade sanctions and embargoes
+International trade restrictions
+Anti-boycott regulations
+10.2. You may not export the Content to:
+
+Prohibited countries or regions
+Restricted end users
+Prohibited end uses
+11. MODIFICATIONS TO LICENSE
+11.1. License Updates:
+
+HelpingAI may modify this License at any time
+Changes effective upon posting
+Continued use constitutes acceptance
+11.2. Notification:
+
+Material changes will be announced
+Users should regularly review terms
+Opt-out requires discontinuing use
+12. SUPPORT AND UPDATES
+12.1. No Obligation:
+
+HelpingAI has no obligation to provide support
+Updates and maintenance are discretionary
+Services may be modified or discontinued
+12.2. Available Support:
+
+Documentation and resources provided "as is"
+Community forums may be available
+Commercial support requires separate agreement
+Last Updated: NOVEMBER 2024
+
+END OF LICENSE
