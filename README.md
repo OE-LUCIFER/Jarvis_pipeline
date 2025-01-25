@@ -8,18 +8,8 @@ A powerful multilingual query classification system that intelligently categoriz
   <summary>Click to expand</summary>
   
 - **Multilingual Support**: 25+ languages including Hindi, Bengali, Telugu, Tamil, and more
-- **Smart Query Classification**: Accurately categorizes queries into:
-  - General queries
-  - Realtime information requests
-  - System actions (open/close apps)
-  - Media controls (play music)
-  - Image generation requests
-  - Reminders
-  - Content generation
-  - Search requests (Google/YouTube)
-- **Cultural Awareness**: Includes culturally appropriate greetings and expressions
-- **Advanced Translation**: Uses MarianMT models for high-quality translations
 - **Extensible Architecture**: Easy to add new languages and query types
+
 </details>
 
 <hr>
